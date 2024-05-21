@@ -20,7 +20,7 @@
 <h2>Getting Started</h2>
 <h4>1. Clone the Repository</h4>
    git clone https://github.com/yourusername/decentralized-lottery.git<br>
-   cd decentralized-lottery
+   cd decentralized-Lottery-Application/LotteryDApp
 
 <h4>2. Install Dependencies</h4>
    npm install
@@ -35,7 +35,7 @@ Update the contract address and ABI in the frontend code. Open LotteryDApp/src/c
 
 <h4>5. Run the Application</h4>
 Start the development server:
-  npm run dev
+ <command> npm run dev</command>
 Open http://localhost:3000 in your browser to view the application.
 
 <h2>Contributing</h2>
