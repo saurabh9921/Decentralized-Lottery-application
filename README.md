@@ -19,7 +19,7 @@
 
 <h2>Getting Started</h2>
 <h4>1. Clone the Repository</h4>
-   git clone https://github.com/yourusername/decentralized-lottery.git
+   git clone https://github.com/yourusername/decentralized-lottery.git<br>
    cd decentralized-lottery
 
 <h4>2. Install Dependencies</h4>
@@ -29,8 +29,8 @@
     Use Remix ide to Compile and Deploy Smart Contracts
 
 <h4>4. Configure Frontend</h4>
-Update the contract address and ABI in the frontend code. Open LotteryDApp/src/constants.js and update the following variables with your deployed contract details:
-  const ContractAddress = 'YOUR_CONTRACT_ADDRESS';
+Update the contract address and ABI in the frontend code. Open LotteryDApp/src/constants.js and update the following variables with your deployed contract details:<br>
+  const ContractAddress = 'YOUR_CONTRACT_ADDRESS';<br>
   const ContractABI = YOUR_CONTRACT_ABI;
 
 <h4>5. Run the Application</h4>
@@ -49,4 +49,4 @@ Feel free to submit issues and pull requests. Contributions are welcome!
 </ul>
 
 <h2>Contact</h2>
-For any inquiries, please contact @saurabhjadhav9921@gmail.com.
+For any inquiries, please contact [saurabhjadhav9921@gmail.com.]
