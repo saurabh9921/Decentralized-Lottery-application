@@ -30,7 +30,7 @@ This is a decentralized lottery application built on the Ethereum blockchain. Th
    ```
 
 #### 3. Compile and Deploy Smart Contracts
-    Use Remix ide to Compile and Deploy Smart Contracts
+     You first need to compile the contract and upload it to the blockchain network. Go to `https://remix.ethereum.org/`, and deploy the smart contract on your choice of blockchain.
 
 #### 4. Configure Frontend
 Update the contract address and ABI in the frontend code. Open LotteryDApp/src/constants.js and update the following variables with your deployed contract details:
