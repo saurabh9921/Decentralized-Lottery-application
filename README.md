@@ -20,7 +20,7 @@ This is a decentralized lottery application built on the Ethereum blockchain. Th
 ## Getting Started
 #### 1. Clone the Repository
 ```bash
-   git clone https://github.com/yourusername/decentralized-lottery.git<br>
+   git clone https://github.com/yourusername/decentralized-lottery.git
    cd decentralized-Lottery-Application/LotteryDApp
 ```
 
@@ -34,7 +34,7 @@ This is a decentralized lottery application built on the Ethereum blockchain. Th
 
 #### 4. Configure Frontend
 Update the contract address and ABI in the frontend code. Open LotteryDApp/src/constants.js and update the following variables with your deployed contract details:
-```bash
+```javascript
   const ContractAddress = 'YOUR_CONTRACT_ADDRESS';
   const ContractABI = YOUR_CONTRACT_ABI;
   ```
